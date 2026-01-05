@@ -1,6 +1,6 @@
 # Aurora Releases
 
-Binary releases for Aurora Console - the touch-first operator console for xLights/Aurora light show management.
+Binary releases for Aurora Console - the touch-first operator console for Aurora Pixel Engine light show management.
 
 ## Installation
 
