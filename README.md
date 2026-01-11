@@ -1,6 +1,5 @@
 <p align="center">
   <img src="https://img.shields.io/github/v/release/NorthStar-Aurora/aurora-releases?style=for-the-badge&label=Latest&color=d4af37" alt="Latest Release">
-  <img src="https://img.shields.io/badge/Platform-ASUS_ROG_Ally-0a1628?style=for-the-badge" alt="Platform">
   <img src="https://img.shields.io/badge/License-Proprietary-8b2942?style=for-the-badge" alt="License">
 </p>
 
@@ -35,7 +34,6 @@ openssl dgst -sha256 -verify /etc/aurora/update-key.pub \
 
 ## System Requirements
 
-- **Hardware:** ASUS ROG Ally
 - **OS:** Aurora OS (included in full install)
 - **Controllers:** Falcon Player, E1.31/DDP compatible
 
